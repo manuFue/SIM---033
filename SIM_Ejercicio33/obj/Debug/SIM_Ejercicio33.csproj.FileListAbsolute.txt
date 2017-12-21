@@ -1,0 +1,10 @@
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\bin\Debug\SIM_Ejercicio33.exe.config
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\bin\Debug\SIM_Ejercicio33.exe
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\bin\Debug\SIM_Ejercicio33.pdb
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.csprojResolveAssemblyReference.cache
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.Pantalla.resources
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.Properties.Resources.resources
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.csproj.GenerateResource.Cache
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.csproj.CoreCompileInputs.cache
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.exe
+C:\Deckjazz\Proyectos\SIM_Ejercicio33\SIM_Ejercicio33\obj\Debug\SIM_Ejercicio33.pdb
